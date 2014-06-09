@@ -97,7 +97,17 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.pie-slice{
+	height: 80px;
+	background-color: aqua;
+}
 
+.pie-fill{
+	display: inline-block;
+	width: 80%;
+	height: 80px;
+	background-color: pink;
+}
 
 
 
